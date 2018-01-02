@@ -8,4 +8,4 @@ Este es el repositorio del curso. En el encontrarás todos los documentos y arch
 
 ### Más información
 
-* [YouTube](https://www.youtube.com/watch?v=Mj3N4op3dMc&list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW) - Serie de vídeos del curso.
+* [YouTube](https://www.youtube.com/playlist?list=PLM-Y_YQmMEqBxmylkI5WJn9ouUxWlJNOW) - Serie de vídeos del curso.
