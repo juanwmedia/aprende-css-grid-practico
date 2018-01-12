@@ -1,0 +1,29 @@
+main {
+    display: grid;
+    grid-gap: 10px;
+    height: 100vh;
+    font-family: sans-serif;
+
+    grid-template-columns:
+        [start]
+        repeat(4,
+            [col-lg-start] minmax(80px, 1fr)
+            [col-lg-end col-md-start] minmax(40px, 1fr)
+            [col-md-end col-sm-start] minmax(20px, 1fr)
+        )
+        [end]
+    ;
+}
+
+div {
+    background-color: goldenrod;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div:first-of-type {
+    background-color: purple;
+    color: white;
+    grid-column: col-lg-start / end;
+}
