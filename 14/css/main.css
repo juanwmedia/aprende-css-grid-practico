@@ -1,0 +1,36 @@
+/* Primer GRID */
+#grid-1 {
+    display: grid;
+    height: 100vh;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, auto));
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+#grid-1 > div {
+    background-color: goldenrod;
+}
+
+/* Segundo GRID */
+#grid-1 > div:nth-child(5) {
+    background-color: transparent;
+    display: block;
+}
+
+#grid-2 {
+    display: grid;
+    grid-gap: 15px;
+    height: 100%;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+#grid-2 > div {
+    background-color: purple;
+    color: white;
+}
