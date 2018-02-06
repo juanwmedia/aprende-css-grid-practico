@@ -2,48 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d1b805e-cb36-4a36-b318-f47d6b5c777f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/19/css/main.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/19/index.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/GRID.iml" afterPath="$PROJECT_DIR$/.idea/GRID.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/01/css/main.css" afterPath="$PROJECT_DIR$/01/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/01/index.html" afterPath="$PROJECT_DIR$/01/index.html" />
-      <change beforePath="$PROJECT_DIR$/02/css/main.css" afterPath="$PROJECT_DIR$/02/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/02/index.html" afterPath="$PROJECT_DIR$/02/index.html" />
-      <change beforePath="$PROJECT_DIR$/03/css/main.css" afterPath="$PROJECT_DIR$/03/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/03/index.html" afterPath="$PROJECT_DIR$/03/index.html" />
-      <change beforePath="$PROJECT_DIR$/04/css/main.css" afterPath="$PROJECT_DIR$/04/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/04/index.html" afterPath="$PROJECT_DIR$/04/index.html" />
-      <change beforePath="$PROJECT_DIR$/05/css/main.css" afterPath="$PROJECT_DIR$/05/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/05/index.html" afterPath="$PROJECT_DIR$/05/index.html" />
-      <change beforePath="$PROJECT_DIR$/06/css/main.css" afterPath="$PROJECT_DIR$/06/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/06/index.html" afterPath="$PROJECT_DIR$/06/index.html" />
-      <change beforePath="$PROJECT_DIR$/07/css/main.css" afterPath="$PROJECT_DIR$/07/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/07/index.html" afterPath="$PROJECT_DIR$/07/index.html" />
-      <change beforePath="$PROJECT_DIR$/08/css/main.css" afterPath="$PROJECT_DIR$/08/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/08/index.html" afterPath="$PROJECT_DIR$/08/index.html" />
-      <change beforePath="$PROJECT_DIR$/09/css/main.css" afterPath="$PROJECT_DIR$/09/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/09/index.html" afterPath="$PROJECT_DIR$/09/index.html" />
-      <change beforePath="$PROJECT_DIR$/10/css/main.css" afterPath="$PROJECT_DIR$/10/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/10/index.html" afterPath="$PROJECT_DIR$/10/index.html" />
-      <change beforePath="$PROJECT_DIR$/11/css/main.css" afterPath="$PROJECT_DIR$/11/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/11/index.html" afterPath="$PROJECT_DIR$/11/index.html" />
-      <change beforePath="$PROJECT_DIR$/12/css/main.css" afterPath="$PROJECT_DIR$/12/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/12/index.html" afterPath="$PROJECT_DIR$/12/index.html" />
-      <change beforePath="$PROJECT_DIR$/13/css/main.css" afterPath="$PROJECT_DIR$/13/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/13/index.html" afterPath="$PROJECT_DIR$/13/index.html" />
-      <change beforePath="$PROJECT_DIR$/14/css/main.css" afterPath="$PROJECT_DIR$/14/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/14/index.html" afterPath="$PROJECT_DIR$/14/index.html" />
-      <change beforePath="$PROJECT_DIR$/15/css/main.css" afterPath="$PROJECT_DIR$/15/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/15/index.html" afterPath="$PROJECT_DIR$/15/index.html" />
-      <change beforePath="$PROJECT_DIR$/16/css/main.css" afterPath="$PROJECT_DIR$/16/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/16/index.html" afterPath="$PROJECT_DIR$/16/index.html" />
-      <change beforePath="$PROJECT_DIR$/17/css/main.css" afterPath="$PROJECT_DIR$/17-18/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/17/index.html" afterPath="$PROJECT_DIR$/17-18/index.html" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/17-18/css/main.css" afterPath="$PROJECT_DIR$/17/css/main.css" />
+      <change beforePath="$PROJECT_DIR$/17-18/index.html" afterPath="$PROJECT_DIR$/17/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,8 +30,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/19/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="129">
-                  <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+                <state relative-caret-position="260">
+                  <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
@@ -83,7 +44,7 @@
           <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/19/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
+                <state relative-caret-position="286">
                   <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
                   <folding />
                 </state>
@@ -182,17 +143,6 @@
               <item name="GRID" type="b2602c69:ProjectViewProjectNode" />
               <item name="GRID" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="GRID" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GRID" type="462c0819:PsiDirectoryNode" />
-              <item name="19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GRID" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GRID" type="462c0819:PsiDirectoryNode" />
-              <item name="19" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -276,25 +226,24 @@
       <workItem from="1517906373025" duration="682000" />
       <workItem from="1517907359037" duration="308000" />
       <workItem from="1517907924631" duration="100000" />
-      <workItem from="1517908055859" duration="1657000" />
+      <workItem from="1517908055859" duration="2219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25315000" />
+    <option name="totallyTimeSpent" value="25877000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="693" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.134375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13402778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19645733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.60799" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -639,7 +588,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17-18/css/main.css">
+    <entry file="file://$PROJECT_DIR$/17/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
@@ -647,7 +596,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17-18/index.html">
+    <entry file="file://$PROJECT_DIR$/17/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
@@ -663,18 +612,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/19/index.html">
+    <entry file="file://$PROJECT_DIR$/19/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        <state relative-caret-position="286">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/19/css/main.css">
+    <entry file="file://$PROJECT_DIR$/19/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="260">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding />
         </state>
       </provider>
