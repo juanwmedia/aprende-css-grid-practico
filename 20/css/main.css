@@ -1,0 +1,19 @@
+main {
+    display: grid;
+    grid-gap: 10px;
+    font-family: sans-serif;
+    grid-template:
+        repeat(4, 50px) / repeat(3, 1fr);
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: goldenrod;
+}
+
+div:nth-child(5) {
+    background-color: purple;
+    align-self: stretch;
+}
