@@ -1,0 +1,119 @@
+/* Generales */
+html * {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+/* Principal */
+.principal {
+    height: 100vh;
+}
+
+.principal > * {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+@media (min-width: 600px) {
+    .principal {
+        display: grid;
+        grid-template-columns: 1fr 2fr 2fr;
+        grid-template-rows: 1fr 3fr 3fr 1fr;
+    }
+}
+
+@media (min-width: 900px) {
+    .principal {
+        grid-template-columns: 1fr 3fr 3fr 1fr;
+    }
+}
+
+/* Cabecera */
+.cabecera {
+    background-color: aquamarine;
+}
+
+@media (min-width: 600px) {
+    .cabecera {
+        grid-column: 1 / -1;
+    }
+}
+
+/* Contenido */
+.contenido {
+    background-color: aliceblue;
+    flex-direction: column;
+}
+
+.contenido__img {
+    width: 100%;
+    height: auto;
+}
+
+@media (min-width: 600px) {
+    .contenido {
+        grid-column: span 2;
+    }
+}
+
+/* Izquierda */
+.izquierda {
+    background-color: beige;
+}
+
+@media (min-width: 900px) {
+    .izquierda {
+        grid-row: span 2;
+    }
+}
+
+/* Anexos */
+.anexo1 {
+    background-color: goldenrod;
+}
+
+.anexo2 {
+    background-color: darkcyan;
+}
+
+/* Derecha */
+.derecha {
+    background-color: bisque;
+}
+
+@media (min-width: 600px) {
+    .derecha {
+        grid-row: 3 / 4;
+    }
+}
+
+@media (min-width: 900px) {
+    .derecha {
+        grid-column: 4;
+        grid-row: 2 / 4;
+    }
+}
+
+/* Pie */
+.pie {
+    background-color: black;
+    color: white;
+}
+
+@media (min-width: 600px) {
+    .pie {
+        grid-column: 1 / -1;
+    }
+}

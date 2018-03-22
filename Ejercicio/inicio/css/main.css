@@ -1,0 +1,60 @@
+/* Generales */
+html * {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+/* Principal */
+.principal {
+    height: 100vh;
+}
+
+/* Cabecera */
+.cabecera {
+    background-color: aquamarine;
+}
+
+/* Contenido */
+.contenido {
+    background-color: aliceblue;
+}
+
+.contenido__img {
+    width: 100%;
+    height: auto;
+}
+
+/* Izquierda */
+.izquierda {
+    background-color: beige;
+}
+
+/* Anexos */
+.anexo1 {
+    background-color: goldenrod;
+}
+
+.anexo2 {
+    background-color: darkcyan;
+}
+
+/* Derecha */
+.derecha {
+    background-color: bisque;
+}
+
+/* Pie */
+.pie {
+    background-color: black;
+    color: white;
+}
